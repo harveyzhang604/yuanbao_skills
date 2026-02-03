@@ -1,6 +1,26 @@
 # 词根词缀表
 
-## 核心词根
+## 核心词根（工具后缀类）
+
+| 词根 | 含义 | 示例 |
+|------|------|------|
+| Calculator | 计算器 | Age Calculator, BMI Calculator |
+| Generator | 生成器 | AI Image Generator, Text Generator |
+| Converter | 转换器 | PDF Converter, Video Converter |
+| Maker | 制作器 | Logo Maker, Meme Maker |
+| Checker | 检查器 | Grammar Checker, Plagiarism Checker |
+| Editor | 编辑器 | Photo Editor, Video Editor |
+| Builder | 构建器 | Resume Builder, Website Builder |
+| Analyzer | 分析器 | SEO Analyzer, Data Analyzer |
+| Optimizer | 优化器 | Image Optimizer, PC Optimizer |
+| Tracker | 追踪器 | Expense Tracker, Habit Tracker |
+| Translator | 翻译器 | Language Translator |
+| Detector | 检测器 | AI Detector |
+| Compressor | 压缩器 | Image Compressor |
+| Remover | 移除器 | Background Remover |
+| Downloader | 下载器 | Video Downloader |
+
+## 核心词根（功能类）
 
 | 词根 | 含义 | 备注 |
 |------|------|------|
