@@ -1,15 +1,31 @@
-1	Calculator（calculator）	用户搜索 Calculator 相关工具。	Age Calculator, BMI Calculator
-2	Generator（generator）	用户搜索 Generator 相关工具。	AI Image Generator, Text Generator
-3	Converter（converter）	用户搜索 Converter 相关工具。	PDF Converter, Video Converter
-4	Maker（maker）	用户搜索 Maker 相关工具。	Logo Maker, Meme Maker
-5	Checker（checker）	用户搜索 Checker 相关工具。	Grammar Checker, Plagiarism Checker
-6	Editor（editor）	用户搜索 Editor 相关工具。	Photo Editor, Video Editor
-7	Builder（builder）	用户搜索 Builder 相关工具。	Resume Builder, Website Builder
-8	Analyzer（analyzer）	用户搜索 Analyzer 相关工具。	SEO Analyzer, Data Analyzer
-9	Optimizer（optimizer）	用户搜索 Optimizer 相关工具。	Image Optimizer, PC Optimizer
-10	Tracker（tracker）	用户搜索 Tracker 相关工具。	Expense Tracker, Habit Tracker
-11	Translator（translator）	用户搜索 Translator 相关工具。	Language Translator
-12	Detector（detector）	用户搜索 Detector 相关工具。	AI Detector
-13	Compressor（compressor）	用户搜索 Compressor 相关工具。	Image Compressor
-14	Remover（remover）	用户搜索 Remover 相关工具。	Background Remover
-15	Downloader（downloader）	用户搜索 Downloader 相关工具。	Video Downloader
+# 词根词缀表
+
+## 核心词根
+
+| 词根 | 含义 | 备注 |
+|------|------|------|
+| Al / AI | 人工智能相关 | Artificial Intelligence |
+| Deep | 深度、深入 | 多层分析、深度挖掘 |
+| Discovery | 发现、探索 | 发现新信息 |
+| Find | 查找、寻找 | 定位特定信息 |
+| Hunter | 猎手、追踪器 | 寻找特定数据点 |
+| Log | 日志、记录 | 事件或数据的时序记录 |
+| Native | 原生、原始 | 原始版本、未优化版本 |
+| Niche | 利基、细分 | 特定市场或主题领域 |
+| Optimized | 优化 | 提升性能和效率 |
+| Pro | 专业版 | 高级或高级版本 |
+| Profit | 利润、收益 | 盈利机会识别 |
+| SERP | 搜索引擎结果页 | SEO 相关 |
+| Skill | 技能、脚本 | 程序能力集 |
+| Tool | 工具 | 执行特定任务的脚本 |
+| Trend | 趋势 | 发展方向和变化 |
+| Ultimate | 最终、终极 | 最佳或最完整版本 |
+| Validation / Validator | 验证、验证器 | 数据校验和准确性验证 |
+| Words | 词汇、关键词 | 关键词或文本数据 |
+
+## 文件命名结构
+
+- **主题类**: Niche, Profit, Trend, SERP, Words
+- **动作类**: Hunter, Validator, Find, Discovery
+- **版本类**: Pro, Native, Optimized, Ultimate, Deep, V2
+- **文件类型**: Tool, Log, MD, PY
