@@ -115,6 +115,14 @@
 | 生成类 | generator, creator, maker | +2 |
 | 高价值 | predictor, analyzer, humanizer, cloner | +2 |
 
+## API 调用限制
+
+| API | 每日限制 | 第一阶段 | 第二阶段 |
+|-----|----------|----------|----------|
+| Brave SERP | 50 次 | ❌ 不使用 | ✅ Top 1%（约 10 次/天） |
+| Google Suggest | 无限制 | ✅ 使用 | - |
+| Bing intitle: | 无限制 | ✅ 使用（降频） | - |
+
 ## 文件命名结构
 
 - **主题类**: Niche, Profit, Trend, SERP, Words
