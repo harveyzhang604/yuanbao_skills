@@ -4,21 +4,59 @@
 
 | 词根 | 含义 | 示例 |
 |------|------|------|
-| Calculator | 计算器 | Age Calculator, BMI Calculator |
-| Generator | 生成器 | AI Image Generator, Text Generator |
-| Converter | 转换器 | PDF Converter, Video Converter |
-| Maker | 制作器 | Logo Maker, Meme Maker |
-| Checker | 检查器 | Grammar Checker, Plagiarism Checker |
-| Editor | 编辑器 | Photo Editor, Video Editor |
-| Builder | 构建器 | Resume Builder, Website Builder |
 | Analyzer | 分析器 | SEO Analyzer, Data Analyzer |
-| Optimizer | 优化器 | Image Optimizer, PC Optimizer |
-| Tracker | 追踪器 | Expense Tracker, Habit Tracker |
-| Translator | 翻译器 | Language Translator |
-| Detector | 检测器 | AI Detector |
-| Compressor | 压缩器 | Image Compressor |
+| Assistant | 助手 | Virtual Assistant, AI Assistant |
+| Builder | 构建器 | Resume Builder, Website Builder |
+| Calculator | 计算器 | Age Calculator, BMI Calculator |
+| Cataloger | 目录制作 | Library Cataloger, Digital Asset Cataloger |
+| Checker | 检查器 | Grammar Checker, Plagiarism Checker |
+| Cloner | 克隆器 | Voice Cloner, AI Cloner, Style Cloner |
+| Comparator | 比较器 | Price Comparator, Product Comparator |
+| Compiler | 编译器 | C++ Compiler, Java Compiler |
+| Connector | 连接器 | USB Connector, Ethernet Connector |
+| Constructor | 构建者 | Website Constructor, Product Constructor |
+| Converter | 转换器 | PDF Converter, Video Converter, Currency Converter |
+| Convert | 转换 | PDF to Word Convert, Currency Convert |
+| Creator | 创作者 | Content Creator, Logo Creator, Game Creator |
+| Dashboard | 仪表盘 | Data Dashboard, Project Dashboard |
+| Designer | 设计师 | Graphic Designer, Web Designer, Logo Designer |
+| Detector | 检测器 | AI Detector, Virus Detector |
+| Downloader | 下载器 | YouTube Downloader, MP3 Downloader, Video Downloader |
+| Editor | 编辑器 | Photo Editor, Video Editor, Text Editor |
+| Evaluator | 评估器 | Product Evaluator, Website Evaluator |
+| Example | 示例 | Code Example, Resume Example, Math Example |
+| Explorer | 浏览器 | File Explorer, Web Explorer, Resource Explorer |
+| Extractor | 提取器 | Text Extractor, Image Extractor, Audio Extractor |
+| Format | 格式 | Text Format, Image Format, Video Format |
+| Generator | 生成器 | AI Image Generator, Text Generator, Password Generator |
+| Humanizer | 人性化器 | AI Humanizer, Text Humanizer, Content Humanizer |
+| Interpreter | 解释器 | Python Interpreter, JavaScript Interpreter |
+| Manager | 管理器 | Project Manager, Task Manager, Property Manager |
+| Maker | 制作器 | Logo Maker, Video Maker, Music Maker |
+| Monitor | 监视器 | System Monitor, Network Monitor, Health Monitor |
+| Navigator | 导航器 | GPS Navigator, Map Navigator, Website Navigator |
+| Notifier | 通知器 | Email Notifier, Reminder Notifier, News Notifier |
+| Online | 在线 | Online Shopping, Online Banking, Online Learning |
+| Optimizer | 优化器 | PC Optimizer, Website Optimizer, SEO Optimizer |
+| Planner | 计划器 | Event Planner, Trip Planner, Wedding Planner |
+| Predictor | 预测器 | Viral Predictor, Trend Predictor, AI Predictor |
+| Processor | 处理器 | Data Processor, Image Processor, Word Processor |
+| Recorder | 录制器 | Audio Recorder, Video Recorder, Screen Recorder |
 | Remover | 移除器 | Background Remover |
-| Downloader | 下载器 | Video Downloader |
+| Responder | 响应器 | Emergency Responder, Customer Support Responder |
+| Sample/Template | 示例/模板 | Resume Sample, Website Template, Email Template |
+| Scheduler | 调度器 | Meeting Scheduler, Flight Scheduler, Work Schedule |
+| Scheme/Pattern | 方案/模式 | Business Scheme, Knitting Pattern, Design Pattern |
+| Scraper | 爬虫 | Web Scraper, Data Scraper, Email Scraper |
+| Sender/Receiver | 发送/接收 | Email Sender, Bluetooth Receiver, Message Receiver |
+| Simulator | 模拟器 | Flight Simulator, Driving Simulator, Game Simulator |
+| Syncer | 同步器 | Phone Syncer, Cloud Syncer, Email Syncer |
+| Tracker | 追踪器 | Package Tracker, Project Tracker, Fitness Tracker |
+| Translator | 翻译器 | Google Translator, Online Translator, Language Translator |
+| Uploader | 上传者 | File Uploader, Image Uploader, Video Uploader |
+| Upscaler | 放大器 | Image Upscaler, Video Upscaler, AI Upscaler |
+| Verifier | 验证器 | Identity Verifier, Code Verifier, Data Verifier |
+| Viewer | 查看器 | PDF Viewer, Image Viewer, Video Viewer |
 
 ## 核心词根（功能类）
 
@@ -37,6 +75,7 @@
 | Profit | 利润、收益 | 盈利机会识别 |
 | SERP | 搜索引擎结果页 | SEO 相关 |
 | Skill | 技能、脚本 | 程序能力集 |
+| Summarizer | 摘要器 | PDF Summarizer, Video Summarizer, AI Summarizer |
 | Tool | 工具 | 执行特定任务的脚本 |
 | Trend | 趋势 | 发展方向和变化 |
 | Ultimate | 最终、终极 | 最佳或最完整版本 |
