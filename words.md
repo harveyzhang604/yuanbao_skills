@@ -82,6 +82,39 @@
 | Validation / Validator | 验证、验证器 | 数据校验和准确性验证 |
 | Words | 词汇、关键词 | 关键词或文本数据 |
 
+## 细分场景词（用于组合挖掘）
+
+| 场景词 | 含义 | 示例 |
+|--------|------|------|
+| anime | 动漫风格 | anime upscaler, anime generator |
+| old / vintage | 老旧风格 | old photo enhancer, vintage filter |
+| low quality | 低质量修复 | low quality video upscaler |
+| family | 家庭场景 | family video editor, family photo organizer |
+| podcast | 播客相关 | podcast audio enhancer, podcast transcript |
+| interview | 访谈场景 | interview recorder, interview summarizer |
+| watermark | 水印处理 | watermark remover, watermark detector |
+| signature | 签名相关 | signature extractor, signature generator |
+| receipt | 发票/收据 | receipt scanner, receipt analyzer |
+| handwriting | 手写体 | handwriting to text, handwriting converter |
+| business card | 名片 | business card scanner, business card generator |
+| scanned | 扫描件 | scanned pdf to text, scanned document enhancer |
+| contract | 合同相关 | contract analyzer, contract template |
+| invoice | 发票 | invoice scanner, invoice extractor |
+| research paper | 学术论文 | paper summarizer, paper analyzer |
+| chatgpt | ChatGPT 相关 | chatgpt prompt generator, chatgpt wrapper |
+| midjourney | Midjourney 相关 | midjourney prompt generator, midjourney style |
+| stable diffusion | SD 相关 | sd prompt generator, sd lora finder |
+
+## 评分信号词（用于轻量筛选）
+
+| 信号类型 | 词 | 权重 |
+|----------|-----|------|
+| 免费 | free, free online, no login, without signup | +1 |
+| 工具类 | app, tool, software, web-based | +1 |
+| AI 类 | ai, artificial intelligence, gpt, neural | +2 |
+| 生成类 | generator, creator, maker | +2 |
+| 高价值 | predictor, analyzer, humanizer, cloner | +2 |
+
 ## 文件命名结构
 
 - **主题类**: Niche, Profit, Trend, SERP, Words
